@@ -6,13 +6,7 @@ This code is a modification of TechWithTim's original 'Hangman' Python Code by a
 
 1.Modified Python Hangman Code
 
-2.Pseudocode
-
-3.IPO Chart
-
-4.Flowchart
-
-5.Logbook
+2.User Portfolio
 
 # Steps to run the code
 
